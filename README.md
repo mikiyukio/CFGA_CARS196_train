@@ -69,7 +69,7 @@ respectively.
 
 4:
 ----------------------------------------------------------------------------------
-Let's go to .\SCDA_cub_resnet50\ dataset
+Let's go to .\SCDA_cars_resnet50\ dataset
 
 ***The following procedures all learn 512-dimensional embedding***
 
@@ -90,6 +90,7 @@ train_arcface_1024.py ====> corresponding to arcface baseline
 train_msloss_1024.py ====> corresponding to msloss baseline
 
 
-if you have run any above train procedures and want to evaluate the performance of **these baselines/ the corresponding CFGA features**, please take your trained models and go to https://github.com/mikiyukio/CFGA_CUB-200-2011_test for more information.
+if you have run any above train procedures and want to evaluate the performance of **these baselines/ the corresponding CFGA features**, please take your trained models and go to https://github.com/mikiyukio/CFGA_CARS196_test for more information.
 
 5:
+email: hello_yuhan@163.com
