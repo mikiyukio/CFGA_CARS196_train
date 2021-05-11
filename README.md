@@ -27,7 +27,7 @@ please download the resnet50 pretrained model from the above link，and save it 
 
 2:
 ------------------------------------------
-download CARS196 dataset from http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
+download CARS196 dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 3:
 --------------------------------------------------------------------------------
