@@ -17,7 +17,7 @@ numpy 1.19.2
 ---------
 all trained models of this work can be got in https://drive.google.com/drive/folders/17qfulk7GsDxmIb21Df_M-_pvWP1lwLTO
 
-As a result, you can simply download the above provided trained model and go to https://github.com/mikiyukio/CFGA_CUB-200-2011_test , which is the core of our released code.
+As a result, you can simply download the above provided trained model and go to https://github.com/mikiyukio/CFGA_CARS196_test , which is the core of our released code.
 ********************************************************************************************************************************************
 1:
 ------------------------------------------------
