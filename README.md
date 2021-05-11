@@ -93,4 +93,5 @@ train_msloss_1024.py ====> corresponding to msloss baseline
 if you have run any above train procedures and want to evaluate the performance of **these baselines/ the corresponding CFGA features**, please take your trained models and go to https://github.com/mikiyukio/CFGA_CARS196_test for more information.
 
 5:
+-----------------------------------------
 email: hello_yuhan@163.com
