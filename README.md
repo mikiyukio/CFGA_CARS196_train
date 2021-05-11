@@ -95,3 +95,15 @@ if you have run any above train procedures and want to evaluate the performance 
 5:
 -----------------------------------------
 email: hello_yuhan@163.com
+
+
+6: Acknowledgements
+---------------------------------------------------
+our code are partially modified on these great repositories:
+
+https://github.com/msight-tech/research-ms-loss
+
+https://github.com/ronghuaiyang/arcface-pytorch/tree/master/models
+
+
+
