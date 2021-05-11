@@ -31,12 +31,12 @@ download CARS196 dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.
 
 3:
 --------------------------------------------------------------------------------
-.\SCDA_cub_resnet50\files.py is the first procrdure you need to run. But before you run it, please change the following code exists in .\SCDA_cub_resnet50\files.py first. 
+.\SCDA_cars_resnet50\files_cars196.py is the first procrdure you need to run. But before you run it, please change the following code exists in .\SCDA_cars_resnet50\files_cars196.py first. 
 
-`parser.add_argument('--datasetdir', default=r'/home/ggh/lzy/Caltech-UCSD Birds-200 2011/Caltech-UCSD Birds-200-2011/CUB_200_2011',  help="path to cub200_2011 dir")`
+`parser.add_argument('--datasetdir', default=r'/home/ggh/lzy/Stanford car dataset/car_ims',  help="cars196 train_and_test images")`
 
 
- replace `"r'/home/ggh/lzy/Caltech-UCSD Birds-200 2011/Caltech-UCSD Birds-200-2011/CUB_200_2011'"` with the path you save CUB-200-2011 dataset 
+ replace `"r'/home/ggh/lzy/Stanford car dataset/car_ims"` with the path you save CARS196 dataset 
 
 after you have run this procedure, four files with json format will be generated in .\SCDA_cub_resnet50\datafile, which will be named as 
 
