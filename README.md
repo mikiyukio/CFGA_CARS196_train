@@ -23,11 +23,11 @@ As a result, you can simply download the above provided trained model and go to 
 ------------------------------------------------
 https://download.pytorch.org/models/resnet50-19c8e357.pth
 
-please download the resnet50 pretrained model from the above link，and save it in .\SCDA_cub_resnet50\model
+please download the resnet50 pretrained model from the above link，and save it in .\SCDA_cars_resnet50\model
 
 2:
 ------------------------------------------
-download CUB-200-2011 dataset from http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
+download CARS196 dataset from http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 
 3:
 --------------------------------------------------------------------------------
