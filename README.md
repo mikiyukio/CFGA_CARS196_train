@@ -48,15 +48,18 @@ after you've downloaded it, go into **.\Stanford car dataset\car_ims** of the do
 
 replace `r'/home/ggh/lzy/Stanford car dataset/car_devkit/devkit'` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_devkit\devkit'`
  
- (2)
+ (3)
  
 `parser.add_argument('--targetdatasetdir', default=r'/home/ggh/lzy/Stanford car dataset/car_ims/cars_196',  help="cars196 train_and_test images")`
 
 replace `r'/home/ggh/lzy/Stanford car dataset/car_ims/cars_196'` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_ims\cars_196'`
  
  
+ 
+ 
+ 
 
-
+===========
 after you have run this procedure, four files with json format will be generated in .\SCDA_cub_resnet50\datafile, which will be named as 
 
 train_labels.json, train_paths.json, test_labels.json, test_paths.json
