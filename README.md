@@ -29,6 +29,8 @@ please download the resnet50 pretrained model from the above link，and save it 
 ------------------------------------------
 download CARS196 dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
+after you've downloaded it, go **.\Stanford car dataset\car_ims** of the downloaded dataset, and creat a new folder named as 'cars_196' 
+
 3:
 --------------------------------------------------------------------------------
 .\SCDA_cars_resnet50\files_cars196.py is the first procrdure you need to run. But before you run it, please change the following code exists in .\SCDA_cars_resnet50\files_cars196.py first. 
