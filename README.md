@@ -36,7 +36,7 @@ download CARS196 dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.
 `parser.add_argument('--datasetdir', default=r'/home/ggh/lzy/Stanford car dataset/car_ims',  help="cars196 train_and_test images")`
 
 
- replace `"r'/home/ggh/lzy/Stanford car dataset/car_ims"` with the path you save CARS196 dataset 
+ replace `"r'/home/ggh/lzy/Stanford car dataset/car_ims"` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_ims'`
 
 after you have run this procedure, four files with json format will be generated in .\SCDA_cub_resnet50\datafile, which will be named as 
 
