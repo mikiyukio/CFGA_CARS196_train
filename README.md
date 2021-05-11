@@ -29,7 +29,7 @@ please download the resnet50 pretrained model from the above link，and save it 
 ------------------------------------------
 download CARS196 dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
-after you've downloaded it, go **.\Stanford car dataset\car_ims** of the downloaded dataset, and creat a new folder named as 'cars_196' 
+after you've downloaded it, go into **.\Stanford car dataset\car_ims** of the downloaded dataset, and creat a new folder named as 'cars_196' 
 
 3:
 --------------------------------------------------------------------------------
