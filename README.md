@@ -60,6 +60,7 @@ replace `r'/home/ggh/lzy/Stanford car dataset/car_ims/cars_196'` with the path y
  
 
 ===========
+
 after you have run this procedure, four files with json format will be generated in .\SCDA_cub_resnet50\datafile, which will be named as 
 
 train_labels.json, train_paths.json, test_labels.json, test_paths.json
