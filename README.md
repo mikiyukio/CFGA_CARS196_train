@@ -40,19 +40,19 @@ after you've downloaded it, go into **.\Stanford car dataset\car_ims** of the do
 `parser.add_argument('--datasetdir', default=r'/home/ggh/lzy/Stanford car dataset/car_ims',  help="cars196 train_and_test images")`
 
 
- replace `"r'/home/ggh/lzy/Stanford car dataset/car_ims'"` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_ims'`
+ replace `r'/home/ggh/lzy/Stanford car dataset/car_ims'` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_ims'`
  
  (2)
  
 ` parser.add_argument('--annotationsdir', default=r'/home/ggh/lzy/Stanford car dataset/car_devkit/devkit',  help="cars196 train_and_test annotations")`
 
-replace `"r'/home/ggh/lzy/Stanford car dataset/car_devkit/devkit'"` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_devkit\devkit'`
+replace `r'/home/ggh/lzy/Stanford car dataset/car_devkit/devkit'` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_devkit\devkit'`
  
  (2)
  
 `parser.add_argument('--targetdatasetdir', default=r'/home/ggh/lzy/Stanford car dataset/car_ims/cars_196',  help="cars196 train_and_test images")`
 
-replace `"r'/home/ggh/lzy/Stanford car dataset/car_ims/cars_196'"` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_ims\cars_196'`
+replace `r'/home/ggh/lzy/Stanford car dataset/car_ims/cars_196'` with the path you save CARS196 dataset , e.g.,`r'C:\Users\于涵\Desktop\Stanford car dataset\car_ims\cars_196'`
  
  
 
