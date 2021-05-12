@@ -19,7 +19,7 @@ NVIDIA Geforce RTX 3090
 ---------
 all trained models of this work can be got in https://drive.google.com/drive/folders/17qfulk7GsDxmIb21Df_M-_pvWP1lwLTO
 
-As a result, you can simply download the above provided trained model and go to https://github.com/mikiyukio/CFGA_CARS196_test , which is the core of our released code.
+As a result, you can simply download the above provided trained model and go to https://github.com/mikiyukio/research-CFGA , which is the core of our released code.
 ********************************************************************************************************************************************
 1:
 ------------------------------------------------
@@ -92,7 +92,7 @@ train_arcface_1024.py ====> corresponding to arcface baseline
 train_msloss_1024.py ====> corresponding to msloss baseline
 
 
-if you have run any above train procedures and want to evaluate the performance of **these baselines/ the corresponding CFGA features**, please take your trained models and go to https://github.com/mikiyukio/CFGA_CARS196_test for more information.
+if you have run any above train procedures and want to evaluate the performance of **these baselines/ the corresponding CFGA features**, please take your trained models and go to https://github.com/mikiyukio/research-CFGA for more information.
 
 5:
 -----------------------------------------
